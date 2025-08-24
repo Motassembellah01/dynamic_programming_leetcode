@@ -8,6 +8,6 @@ Showcase my ability to approach problems systematically and improve over time. B
 
 🧩 Problems Solved (Exploring top-down with memoization, bottom-up)
 
-  70. Climbing Stairs
-  198. House Robber
-  746. Min Cost Climbing Stairs
+  70.Climbing Stairs
+  198.House Robber
+  746.Min Cost Climbing Stairs
